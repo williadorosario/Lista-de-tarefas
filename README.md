@@ -2,77 +2,77 @@
 React
 Styled Components
 
-Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentais do React como:<br>
+Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentais do React como:<br><br>
 
-⚛️ Componentes funcionais<br>
+⚛️ Componentes funcionais<br><br>
 
-🎣 Hooks (useState)<br>
+🎣 Hooks (useState)<br><br>
 
-💅 Styled Components<br>
+💅 Styled Components<br><br>
 
-♻️ Renderização condicional<br>
+♻️ Renderização condicional<br><br>
 
 ✨ Funcionalidades Implementadas
 mermaid<br>
 Copy
-graph LR
-    A[Adicionar Tarefa] --> B[Validação de Input]<br>
-    C[Visualizar Lista] --> D[Estilo Condicional]<br>
-    E[Completar Tarefa] --> F[Ícone Interativo]<br>
+graph LR<br>
+    A[Adicionar Tarefa] --> B[Validação de Input]<br><br>
+    C[Visualizar Lista] --> D[Estilo Condicional]<br><br>
+    E[Completar Tarefa] --> F[Ícone Interativo]<br><br>
     G[Remover Tarefa] --> H[Feedback Imediato] <br><br>
-🛠 Tecnologias Utilizadas<br>
-Tecnologia	Finalidade<br>
-React	Biblioteca principal<br>
-Styled Components	Estilização com CSS-in-JS<br>
-React Icons	Ícones profissionais<br>
-UUID	Geração de IDs únicos<br>
-🚀 Como Executar<br>
-Clone o repositório:<br>
+    🛠 Tecnologias Utilizadas<br><br>
+Tecnologia	Finalidade<br><br>
+React	Biblioteca principal<br><br>
+Styled Components	Estilização com CSS-in-JS<br><br>
+React Icons	Ícones profissionais<br><br>
+UUID	Geração de IDs únicos<br><br>
+🚀 Como Executar<br><br>
+Clone o repositório:<br><br>
 
 bash
 Copy
 git clone https://github.com/seu-usuario/lista-tarefas.git
 Instale as dependências:
-<br>
+<br><br>
 bash
 Copy
-npm install
+npm install<br><br>
 Inicie o projeto:
-<br>
+<br><br>
 bash
 Copy
-npm start<br>
-📌 O Que Aprendi<br>
+npm start<br><br>
+📌 O Que Aprendi<br><br>
 Gerenciamento de estado com useState
-<br>
+<br><br>
 Componentes controlados
-<br>
+<br><br>
 Estilização dinâmica baseada em props
-<br>
+<br><br>
 Estrutura de projetos React
-<br>
+<br><br>
 Deploy de aplicações simples
-<br>
+<br><br>
 🌟 Próximos Passos<br>
 Estou planejando adicionar:
-<br>
+<br><br>
 Persistência com localStorage
-<br>
+<br><br>
 Filtros de tarefas
-<br>
+<br><br>
 Animações básicas
-<br>
+<br><br>
 💡 Por Que Este Projeto?
 Este foi meu primeiro contato com:
-<br>
+<br><br>
 Styled Components
-<br>
+<br><br>
 Gerenciamento de estado
-<br>
+<br><br>
 Listas dinâmicas
-<br>
+<br><br>
 Ícones em React
-<br>
+<br><br>
 📝 Licença
 MIT License - veja o arquivo LICENSE para detalhes.
 
