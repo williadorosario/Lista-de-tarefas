@@ -2,77 +2,77 @@
 React
 Styled Components
 
-Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentais do React como:
+Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentais do React como:<br>
 
-⚛️ Componentes funcionais
+⚛️ Componentes funcionais<br>
 
-🎣 Hooks (useState)
+🎣 Hooks (useState)<br>
 
-💅 Styled Components
+💅 Styled Components<br>
 
-♻️ Renderização condicional
+♻️ Renderização condicional<br>
 
 ✨ Funcionalidades Implementadas
-mermaid
+mermaid<br>
 Copy
 graph LR
     A[Adicionar Tarefa] --> B[Validação de Input]
     C[Visualizar Lista] --> D[Estilo Condicional]
     E[Completar Tarefa] --> F[Ícone Interativo]
-    G[Remover Tarefa] --> H[Feedback Imediato]
-🛠 Tecnologias Utilizadas
-Tecnologia	Finalidade
-React	Biblioteca principal
-Styled Components	Estilização com CSS-in-JS
-React Icons	Ícones profissionais
-UUID	Geração de IDs únicos
-🚀 Como Executar
-Clone o repositório:
+    G[Remover Tarefa] --> H[Feedback Imediato] <br><br>
+🛠 Tecnologias Utilizadas<br>
+Tecnologia	Finalidade<br>
+React	Biblioteca principal<br>
+Styled Components	Estilização com CSS-in-JS<br>
+React Icons	Ícones profissionais<br>
+UUID	Geração de IDs únicos<br>
+🚀 Como Executar<br>
+Clone o repositório:<br>
 
 bash
 Copy
 git clone https://github.com/seu-usuario/lista-tarefas.git
 Instale as dependências:
-
+<br>
 bash
 Copy
 npm install
 Inicie o projeto:
-
+<br>
 bash
 Copy
-npm start
-📌 O Que Aprendi
+npm start<br>
+📌 O Que Aprendi<br>
 Gerenciamento de estado com useState
-
+<br>
 Componentes controlados
-
+<br>
 Estilização dinâmica baseada em props
-
+<br>
 Estrutura de projetos React
-
+<br>
 Deploy de aplicações simples
-
-🌟 Próximos Passos
+<br>
+🌟 Próximos Passos<br>
 Estou planejando adicionar:
-
+<br>
 Persistência com localStorage
-
+<br>
 Filtros de tarefas
-
+<br>
 Animações básicas
-
+<br>
 💡 Por Que Este Projeto?
 Este foi meu primeiro contato com:
-
+<br>
 Styled Components
-
+<br>
 Gerenciamento de estado
-
+<br>
 Listas dinâmicas
-
+<br>
 Ícones em React
-
+<br>
 📝 Licença
 MIT License - veja o arquivo LICENSE para detalhes.
 
