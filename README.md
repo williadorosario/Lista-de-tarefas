@@ -76,4 +76,10 @@ Listas dinâmicas
 📝 Licença
 MIT License - veja o arquivo LICENSE para detalhes.
 
+<div>
+
+    <img src="https://github.com/user-attachments/assets/2f49afe8-8121-493a-96ef-4e93fcfbd4e0"
+
+</div>
+
 
