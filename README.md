@@ -16,9 +16,9 @@ Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentai
 mermaid<br>
 Copy
 graph LR
-    A[Adicionar Tarefa] --> B[Validação de Input]
-    C[Visualizar Lista] --> D[Estilo Condicional]
-    E[Completar Tarefa] --> F[Ícone Interativo]
+    A[Adicionar Tarefa] --> B[Validação de Input]<br>
+    C[Visualizar Lista] --> D[Estilo Condicional]<br>
+    E[Completar Tarefa] --> F[Ícone Interativo]<br>
     G[Remover Tarefa] --> H[Feedback Imediato] <br><br>
 🛠 Tecnologias Utilizadas<br>
 Tecnologia	Finalidade<br>
