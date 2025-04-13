@@ -14,7 +14,7 @@ Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentai
 
 ✨ Funcionalidades Implementadas
 mermaid<br>
-Copy<br>
+Copy
 graph LR<br>
     A [Adicionar Tarefa] --> B [Validação de Input]<br><br>
     C [Visualizar Lista] --> D [Estilo Condicional]<br><br>
