@@ -76,16 +76,5 @@ Listas dinâmicas
 📝 Licença
 MIT License - veja o arquivo LICENSE para detalhes.
 
-<div>
-
-    
-<div align="center">
-  <img src=""![lista tarefa video - Made with Clipchamp](https://github.com/user-attachments/assets/a24e2ee2-3063-4a45-8e34-4960aed20c49)
-
- alt="Uso da lista de tarefas" width="700"/>
-  <p><em>Adicionando, completando e removendo tarefas</em></p>
-</div>
-
-</div>
 
 
