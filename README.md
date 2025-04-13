@@ -1,12 +1,79 @@
-# React + Vite
+📋 Lista de Tarefas React - Projeto Inicial
+React
+Styled Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentais do React como:
 
-Currently, two official plugins are available:
+⚛️ Componentes funcionais
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎣 Hooks (useState)
 
-## Expanding the ESLint configuration
+💅 Styled Components
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+♻️ Renderização condicional
+
+✨ Funcionalidades Implementadas
+mermaid
+Copy
+graph LR
+    A[Adicionar Tarefa] --> B[Validação de Input]
+    C[Visualizar Lista] --> D[Estilo Condicional]
+    E[Completar Tarefa] --> F[Ícone Interativo]
+    G[Remover Tarefa] --> H[Feedback Imediato]
+🛠 Tecnologias Utilizadas
+Tecnologia	Finalidade
+React	Biblioteca principal
+Styled Components	Estilização com CSS-in-JS
+React Icons	Ícones profissionais
+UUID	Geração de IDs únicos
+🚀 Como Executar
+Clone o repositório:
+
+bash
+Copy
+git clone https://github.com/seu-usuario/lista-tarefas.git
+Instale as dependências:
+
+bash
+Copy
+npm install
+Inicie o projeto:
+
+bash
+Copy
+npm start
+📌 O Que Aprendi
+Gerenciamento de estado com useState
+
+Componentes controlados
+
+Estilização dinâmica baseada em props
+
+Estrutura de projetos React
+
+Deploy de aplicações simples
+
+🌟 Próximos Passos
+Estou planejando adicionar:
+
+Persistência com localStorage
+
+Filtros de tarefas
+
+Animações básicas
+
+💡 Por Que Este Projeto?
+Este foi meu primeiro contato com:
+
+Styled Components
+
+Gerenciamento de estado
+
+Listas dinâmicas
+
+Ícones em React
+
+📝 Licença
+MIT License - veja o arquivo LICENSE para detalhes.
+
+
