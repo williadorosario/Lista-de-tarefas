@@ -14,12 +14,12 @@ Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentai
 
 ✨ Funcionalidades Implementadas
 mermaid<br>
-Copy
+Copy<br>
 graph LR<br>
-    A[Adicionar Tarefa] --> B[Validação de Input]<br><br>
-    C[Visualizar Lista] --> D[Estilo Condicional]<br><br>
-    E[Completar Tarefa] --> F[Ícone Interativo]<br><br>
-    G[Remover Tarefa] --> H[Feedback Imediato] <br><br>
+    A [Adicionar Tarefa] --> B [Validação de Input]<br><br>
+    C [Visualizar Lista] --> D [Estilo Condicional]<br><br>
+    E [Completar Tarefa] --> F [Ícone Interativo]<br><br>
+      [Remover Tarefa] --> H [Feedback Imediato] <br><br>
     🛠 Tecnologias Utilizadas<br><br>
 Tecnologia	Finalidade<br><br>
 React	Biblioteca principal<br><br>
