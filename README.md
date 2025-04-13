@@ -4,13 +4,13 @@ Styled Components
 
 Aplicação de lista de tarefas desenvolvida para praticar conceitos fundamentais do React como:<br><br>
 
-⚛️ Componentes funcionais<br><br>
+⚛️ Componentes funcionais<br>
 
-🎣 Hooks (useState)<br><br>
+🎣 Hooks (useState)<br>
 
-💅 Styled Components<br><br>
+💅 Styled Components<br>
 
-♻️ Renderização condicional<br><br>
+♻️ Renderização condicional<br>
 
 ✨ Funcionalidades Implementadas
 mermaid<br>
